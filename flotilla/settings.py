@@ -5,8 +5,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'jhz)0u%kx0b(1z=t+b8*vl=-y*%al4#9#m7+qq2xv4vyrt^wpe'
 DEBUG = True
 ALLOWED_HOSTS = [
-    #'.herokuapp.com','127.0.0.1',
-    #'apprastreo.herokuapp.com',
+    '.herokuapp.com','127.0.0.1',
+    'flotillavehiculos.herokuapp.com',
 ]
 
 INSTALLED_APPS = [
